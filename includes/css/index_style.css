@@ -1,7 +1,3 @@
-html {
-  scroll-behavior: smooth!important;
-}
-
 @media (min-width: 768px) {
 .main {
 padding-right: 40px;
@@ -167,4 +163,8 @@ padding-left: 220px; /* 180 + 40 */
 
 .blueColor{
 	color: #106cfc;
+}
+
+.closeBtn{
+	background-color: white;
 }
